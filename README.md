@@ -24,3 +24,13 @@ Waveform showing state transitions and signal behavior:
 
 <img width="713" height="443" alt="Screenshot 2026-04-01 135820" src="https://github.com/user-attachments/assets/a14c8174-3c1f-4271-8176-423c01f6b2a5" />
 
+## 🎥 Demo Video
+
+This demo shows the simulation waveform and execution of arithmetic and logical operations in the optimized ALU implemented using Verilog. It highlights opcode-based control, flag generation (Carry, Zero), and performance improvements using Carry Lookahead Adder (CLA) and clock gating in Xilinx Vivado.
+
+## 🎥 Demo Video
+
+This demo shows the simulation waveform and FSM-based state transitions of the adaptive traffic light controller implemented in Verilog. It demonstrates signal control (Red, Yellow, Green), timing behavior, and sequential logic verification using Xilinx Vivado.
+
+👉 [Click to watch demo](https://drive.google.com/file/d/1sO6yPWc6fR7pJWWbs7JtnIY61tJ8nNrb/view?usp=drivesdk)
+
