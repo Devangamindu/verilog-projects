@@ -1,16 +1,17 @@
-# Advanced Traffic Controller (Verilog)
+1.Designed and implemented an adaptive traffic light controller using Finite State Machine (FSM) in Verilog HDL. The system manages traffic signals (Red, Yellow, Green) using sequential logic and state transitions.
 
-## Description
-This project implements a traffic light controller using Verilog HDL based on FSM (Finite State Machine).
+Enhanced the controller with optimized timing control and modular design, ensuring scalability for multi-junction scenarios. Verified functionality through a comprehensive testbench and waveform analysis using Xilinx Vivado.
 
-## Features
-- Controls traffic signals (Red, Yellow, Green)
-- Uses sequential logic design
-- Includes testbench for verification
+🔧 Key Features:
+- FSM-based sequential control logic
+- Optimized state transitions with timing control
+- Modular and scalable architecture
+- Complete testbench verification
 
-## Tools Used
-- Xilinx Vivado
+🛠 Tools: Verilog, Xilinx Vivado
 
-## Files
-- advanced_traffic_controller.v
-- advanced_traffic_controller_tb.v
+📁 Files:
+- advanced_traffic_controller.v 
+- advanced_traffic_controller_tb.v 
+
+For traffic controller 
