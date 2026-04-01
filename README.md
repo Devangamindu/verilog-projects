@@ -17,3 +17,10 @@ Enhanced the controller with optimized timing control and modular design, ensuri
 ## Files
 - advanced_traffic_controller.v
 - advanced_traffic_controller_tb.v
+
+## 📊 Simulation Output
+
+Waveform showing state transitions and signal behavior:
+
+<img width="713" height="443" alt="Screenshot 2026-04-01 135820" src="https://github.com/user-attachments/assets/a14c8174-3c1f-4271-8176-423c01f6b2a5" />
+
