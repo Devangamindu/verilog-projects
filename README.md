@@ -28,5 +28,5 @@ Waveform showing state transitions and signal behavior:
 
 This demo shows the simulation waveform and FSM-based state transitions of the adaptive traffic light controller implemented in Verilog. It demonstrates signal control (Red, Yellow, Green), timing behavior, and sequential logic verification using Xilinx Vivado.
 
-👉 [Click to watch demo](https://drive.google.com/file/d/1sO6yPWc6fR7pJWWbs7JtnIY61tJ8nNrb/view?usp=drivesdk)
+video link:(https://drive.google.com/file/d/1sO6yPWc6fR7pJWWbs7JtnIY61tJ8nNrb/view?usp=drivesdk)
 
